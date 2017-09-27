@@ -4,7 +4,7 @@ Entornos de Desarrollo 1º Desarrollo de apps. web DAW - DUAL
 Curso 2017/2018  
 ÉCIJA (SEVILLA)
 
-![Entornos d desarrollo](img/logo.jpg)
+![Entornos d desarrollo](logo.jpg)
 
 ## Contenidos del módulo
 
