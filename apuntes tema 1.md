@@ -63,46 +63,47 @@ Scrum (II)
 
 #### XP (Programación extrema) (II)
 ##### Características
--Diseño sencillo
--Pequeñas mejoras continuas
--Pruebas y refactorización
--Integración continua
--Programación por parejas
--El cliente se integra en el equipo de desarrollo
--Propiedad del código compartida
--Estándares de codificación
--40 horas semanales
+- Diseño sencillo
+- Pequeñas mejoras continuas
+- Pruebas y refactorización
+- Integración continua
+- Programación por parejas
+- El cliente se integra en el equipo de desarrollo
+- Propiedad del código compartida
+- Estándares de codificación
+- 40 horas semanales
 
 #### Tipos de lenguajes declarativos:
--Lógicos: Utilizan reglas. Ej: Prolog
--Funcionales: Utilizan funciones. Ej: Lisp, Haskell
--Algebraicos: Utilizan sentencias. Ej: SQL
-  - Normalmente son lenguajes interpretados.
+- Lógicos: Utilizan reglas. Ej: Prolog
+- Funcionales: Utilizan funciones. Ej: Lisp, Haskell
+- Algebraicos: Utilizan sentencias. Ej: SQL
+  -Normalmente son lenguajes interpretados.
 * Los lenguajes declarativos son poco usados en la actualidad *
 
 #### Tipos de lenguajes imperativos:
-Estructurados: C
-Orientados a objetos: Java
-Multiparadigma: C++, Javascript
-- Los lenguajes orientados a objetos son también lenguajes estructurados.
-- Muchos de estos lenguajes son compilados.
+- Estructurados: C
+- Orientados a objetos: Java
+- Multiparadigma: C++, Javascript
+  -Los lenguajes orientados a objetos son también lenguajes estructurados.
+  -Muchos de estos lenguajes son compilados.
+
 #### Tipos de lenguajes según nivel de abstracción: 
-Bajo nivel: ensamblador
-Medio nivel: C
-Alto nivel: C++, Java
+- Bajo nivel: ensamblador
+- Medio nivel: C
+- Alto nivel: C++, Java
 
 #### Evolución
-Código binario
-Ensamblador
-Lenguajes estructurados
-Lenguajes orientados a objetos
+- Código binario
+- Ensamblador
+- Lenguajes estructurados
+- Lenguajes orientados a objetos
 
 #### Criterios para la selección de un lenguaje
-Campo de aplicación
-Experiencia previa
-Herramientas de desarrollo
-Documentación disponible
-Base de usuarios
-Reusabilidad
-Transportabilidad
-Imposición del cliente
+- Campo de aplicación
+- Experiencia previa
+- Herramientas de desarrollo
+- Documentación disponible
+- Base de usuarios
+- Reusabilidad
+- Transportabilidad
+- Imposición del cliente
