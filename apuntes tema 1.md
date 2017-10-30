@@ -18,3 +18,11 @@ Código ejecutable: archivo binario ejecutable.
 
 #### Ingeniería de software:  
 Disciplina que estudia los principios y metodologías para el desarrollo y mantenimiento de sistemas software.
+
+#### Desarrollo de software  
+Fases principales:
+- ANÁLISIS: Se determina y define claramente las necesidades del cliente y se especifican los requisitos que debe cumplir el software a desarrollar.
+- DISEÑO: Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
+- CODIFICACIÓN: Se escribe el código fuente de cada componente.
+- PRUEBAS: El principal objetivo de las pruebas debe ser conseguir que el programa funcione incorrectamente y que se descubran defectos.
+- MANTENIMIENTO: Durante la explotación del sistema software es necesario realizar cambios ocasionales. Para ello hay que rehacer parte del trabajo realizado en las fases previas.
