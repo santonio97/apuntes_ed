@@ -50,7 +50,7 @@ Modelos evolutivos o incrementales
 - Modelo en espiral (iterativos) 
 - Metodologías ágiles (adaptativos)
 
-Scrum (II)
+Scrum (II)  
 ![Entornos d desarrollo](scrum.jpg)
 
 #### XP (Programación extrema) (I)
