@@ -51,7 +51,7 @@ Modelos evolutivos o incrementales
 - Metodologías ágiles (adaptativos)
 
 Scrum (II)
-
+![Entornos d desarrollo](scrum.jpg)
 
 #### XP (Programación extrema) (I)
 ##### Valores
