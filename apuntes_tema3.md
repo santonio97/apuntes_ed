@@ -1,4 +1,4 @@
-*TEMA 3: Diseño y realización de pruebas*
+**TEMA 3: Diseño y realización de pruebas**
 
 ***Forma de las pruebas***  
   Pruebas dinámicas: Requieren la ejecución de la aplicación. Permiten medir el comportamiento de la aplicación desarrollada.  
@@ -38,3 +38,12 @@
   Pruebas de humo (smooke test)  
   Pruebas alfa y beta  
   Pruebas de aceptación (validación por parte del cliente)  
+
+***Pruebas no funcionales***  
+  Pruebas de usabilidad  
+  Pruebas de rendimient  
+  Pruebas de stress  
+  Pruebas de seguridad  
+  Pruebas de compatibilidad  
+  Pruebas de portabilidad  
+  ...  
