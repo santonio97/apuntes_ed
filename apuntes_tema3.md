@@ -14,8 +14,8 @@
   No se tienen en cuenta los detalles internos de funcionamiento.  
   Se proporcionan entradas y se estudian las salidas.  
   Principales técnicas:  
-      Particiones de equivalencia  
-      Valores límite  
+      - Particiones de equivalencia  
+      - Valores límite  
 
 ***Estrategias de prueba de caja blanca***  
   Se examina el código fuente y su ejecución.  
@@ -23,8 +23,8 @@
   También pueden comprobarse los flujos entre unidades durante la integración.  
   E incluso entre subsistemas, durante las pruebas de sistema.  
   Principales técnicas:  
-      Cobertura lógica  
-      Prueba de bucles  
+      - Cobertura lógica  
+      - Prueba de bucles  
 
 ***Tipos de pruebas***  
   Funcionales: Evaluan el cumplimiento de los requisitos.  
