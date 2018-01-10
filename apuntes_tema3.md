@@ -22,17 +22,6 @@ element: class="fragment" data-fragment-index="1"
 [![cc-by-sa](assets/cc-by-sa.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
-## Índice
---- 
-### Introducción
-### Pruebas
-### Integración
-### Calidad
-
-<!--- Note: Nota a pie de página. -->
-
-
-
 ## Introducción
 
 
