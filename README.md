@@ -9,8 +9,8 @@ Curso 2017/2018
 ## Contenidos del módulo
 
 [Unidad 1: Elementos de desarrollo de software](apuntes_tema1.md)  
-[Unidad 2: Entornos integrados de desarrollo](2.ENTORNOS.md)  
-[Unidad 3: Diseño y realización de pruebas](3.PRUEBAS.md)  
-[Unidad 4: Documentación y optimización](4.DOCUMENTACION.md)  
-[Unidad 5: Elaboración de diagramas de clases](5.DIAGRAMAS_CLASES.md)  
-[Unidad 6: Elaboración de diagramas de comportamiento](6.DIAGRAMAS_COMPORTAMIENTO.md)  
+[Unidad 2: Entornos integrados de desarrollo](apuntes_tema2.md)  
+[Unidad 3: Diseño y realización de pruebas](apuntes_tema3.md)  
+[Unidad 4: Documentación y optimización](apuntes_tema4.md)  
+[Unidad 5: Elaboración de diagramas de clases](apuntes_tema5.md)  
+[Unidad 6: Elaboración de diagramas de comportamiento](apuntes_tema6.md)  
