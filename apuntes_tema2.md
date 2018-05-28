@@ -12,6 +12,9 @@ element: class="fragment" data-fragment-index="1"
 ![Entornos de desarrollo](assets/entornosdesarrollo.png)
 <small> 2017-18 - IES Luis Vélez de Guevara - Écija - Spain </small>
 
+# TEMA 2: Entornos integrados de desarrollo
+- [Diapositivas](http://jamj2000.github.io/entornosdesarrollo/2/diapositivas)  
+- [Actividades](http://jamj2000.github.io/entornosdesarrollo/2/actividades)  
 
 ## Entornos integrados de desarrollo
 
